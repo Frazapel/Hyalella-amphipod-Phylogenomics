@@ -1,5 +1,4 @@
-# Phylogenomics-of-the-Hyalella-amphipod-species-flock-of-the-Andean-Altiplano
-Data from the paper Zapelloni et al. (2020), Scientific Report
+**Data from Phylogenomics of the *Hyalella* amphipod species-flock of the Andean Altiplano (article in revision)**
 
 Hyalella_mitoPCG_names.nex = Nexus alignment of the concatenated 13 mitochondrial protein coding genes of 39 samples, partitioned by gene.
 
