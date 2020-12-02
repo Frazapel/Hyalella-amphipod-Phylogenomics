@@ -1,7 +1,7 @@
 # Phylogenomics-of-the-Hyalella-amphipod-species-flock-of-the-Andean-Altiplano
 Data from the paper Zapelloni et al. (2020), Scientific Report
 
-Hyalella_mitoPCG_names.nex = Nexus alignment of the concatenated 13 mitochondrial protein coding genes of 39 samples, partitioned by gene.
+Hyalella_mitoPCG_names.nex = Nexus alignment of the concatenated 13 mitochondrial protein coding genes of 39 samples, partitioned by gene. \n
 Hyalella_ribosomal18S_mafft_names.nex = Nexus alignment of the small nuclear ribosomal subunit (18S) of 39 samples.
 Hyalella_ribosomal28S_mafft_names.nex = Nexus alignment of the large nuclear ribosomal subunit (28S) of 39 samples.
 Hyalella_76nuclear_names.nex = Nexus alignment of the concatenated 76 Orthologous genes found with Orthofinder, partitioned by gene (37 samples).
