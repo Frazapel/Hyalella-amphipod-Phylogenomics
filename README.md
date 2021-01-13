@@ -1,4 +1,4 @@
-**Data from Phylogenomics of the *Hyalella* amphipod species-flock of the Andean Altiplano**
+**Data from Phylogenomics of the *Hyalella* amphipod species-flock of the Andean Altiplano https://doi.org/10.1038/s41598-020-79620-4**
 
 Hyalella_mitoPCG_names.nex = Nexus alignment of the concatenated 13 mitochondrial protein coding genes of 39 samples, partitioned by gene.
 
